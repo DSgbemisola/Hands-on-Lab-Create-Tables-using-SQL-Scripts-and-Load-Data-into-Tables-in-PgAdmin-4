@@ -197,7 +197,7 @@ To explore each table in the database, I right-clicked on each table and selecte
    SELECT dep_id, AVG(salary) AS AVG_SALARY, COUNT (*) AS NUM_EMPLOYEES
    FROM employees
    GROUP BY dep_id
-   HAVING COUNT(*)
+   HAVING COUNT(*) < 4
    ORDER BY AVG_SALARY
 
    ![image](https://github.com/user-attachments/assets/447e3fd3-5f17-4251-b2cb-41cfe6994f48)
