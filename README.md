@@ -61,19 +61,19 @@ To explore each table in the database, I right-clicked on each table and selecte
 
    ![image](https://github.com/user-attachments/assets/f35245c5-9a25-4c18-a06a-333e9a4fadd8)
 
-3. Employees Table
+2. Employees Table
 
    ![image](https://github.com/user-attachments/assets/f83d2120-5fb2-486f-857b-9c27353832b2)
 
-5. Jobs Table
+3. Jobs Table
 
    ![image](https://github.com/user-attachments/assets/a9e3931b-0fdd-4949-834c-4297808923d3)
 
-7. Locations Table
+4. Locations Table
 
    ![image](https://github.com/user-attachments/assets/f75e89be-93ec-4b7d-ac16-63b5368bd9e7)
 
-8. JobsHistory Table
+5. JobsHistory Table
 
    ![image](https://github.com/user-attachments/assets/5bcc6784-ba60-4089-b2b9-21a45554683c)
 
@@ -99,7 +99,7 @@ To explore each table in the database, I right-clicked on each table and selecte
 
    ![image](https://github.com/user-attachments/assets/91941af7-3bef-47f2-b78a-733c645f7a1e)
 
-4. Retrieve all employees in department 5 whose salary is between 60000 and 70000.
+3. Retrieve all employees in department 5 whose salary is between 60000 and 70000.
 
    In solving this problem, I used the following SQL statement:
    
@@ -131,7 +131,7 @@ To explore each table in the database, I right-clicked on each table and selecte
 
   ![image](https://github.com/user-attachments/assets/0fb566d7-a1a0-43d9-b2b1-a4c6c9454514)
 
-4. Retrieve a list of employees ordered by department name, and within each department ordered alphabetically in descending order by last name.
+3. Retrieve a list of employees ordered by department name, and within each department ordered alphabetically in descending order by last name.
 
    In solving this problem, I used the following SQL statement:
    
