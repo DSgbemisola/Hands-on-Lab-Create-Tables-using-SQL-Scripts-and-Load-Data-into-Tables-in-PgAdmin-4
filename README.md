@@ -1,6 +1,6 @@
 # Hands-on-Lab-on-Creating-Tables-using-SQL-Scripts-and-Loading-Data-into-Tables-in-PgAdmin-4
 
-This is a hands-on project on creating Tables using SQL Scripts and Loading Data into Tables in PgAdmin 4
+This is a hands-on project on creating Tables using SQL Scripts and Loading Data into Tables in PgAdmin.
 
 # Software Used in this Lab
 
@@ -16,9 +16,10 @@ The database used in this lab is an internal database belonging to IBM; a sample
 
 The objectives of this project were to:
 
-1. Create a database.
-2. Create tables using SQL scripts
-3. Load data into tables
+1. Create the sample HR database and tables in PgAdmin.
+2. Solve SQL problems Using String Patterns.
+3. Solve SQL problems Using Sorting.
+4. Solve SQL problems on Grouping
 
 # Task A: Creating tables using SQL scripts
 
